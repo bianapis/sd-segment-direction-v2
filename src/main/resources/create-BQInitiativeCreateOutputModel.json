@@ -1,0 +1,32 @@
+{
+  "segmentStrategyInstanceRecord" : {
+    "segmentStrategySchedule" : "segmentStrategySchedule",
+    "segmentStrategyPoliciesAndGuidelines" : "segmentStrategyPoliciesAndGuidelines",
+    "segmentStrategyOrganization" : "segmentStrategyOrganization",
+    "segmentGoalRecord" : {
+      "segmentGoalDefinition" : "segmentGoalDefinition",
+      "segmentGoalResult" : "segmentGoalResult",
+      "segmentGoalOrganization" : "segmentGoalOrganization",
+      "segmentGoalType" : "segmentGoalType"
+    },
+    "segmentStrategyPeriod" : "segmentStrategyPeriod",
+    "segmentStrategyBudget" : "segmentStrategyBudget"
+  },
+  "initiativeInstanceStatus" : "initiativeInstanceStatus",
+  "bQInitiativeInstanceRecord" : {
+    "segmentInitiativeType" : "segmentInitiativeType",
+    "segmentInitiativeDescription" : "segmentInitiativeDescription",
+    "segmentInitiativeSchedule" : "segmentInitiativeSchedule",
+    "segmentInitiativeBusinessUnitReference" : "715090",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "correspondenceInstanceReference" : "791490",
+    "segmentInitiativeResult" : "segmentInitiativeResult",
+    "segmentInitiativeWorkProducts" : "segmentInitiativeWorkProducts",
+    "documentDirectoryEntryInstanceReference" : "790465"
+  },
+  "initiativeInitiateActionRecord" : {},
+  "initiativeInstanceReference" : "IIR744581",
+  "initiativeInitiateActionReference" : "IIAR787392"
+}

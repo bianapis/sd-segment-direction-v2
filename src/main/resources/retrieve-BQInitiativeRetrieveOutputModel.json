@@ -1,0 +1,30 @@
+{
+  "initiativeRetrieveActionTaskReference" : "IRATR738344",
+  "initiativeInstanceAnalysis" : {
+    "initiativeInstanceAnalysisRecord" : {},
+    "initiativeInstanceAnalysisReport" : {},
+    "initiativeInstanceAnalysisReportType" : "initiativeInstanceAnalysisReportType",
+    "initiativeInstanceAnalysisParameters" : "initiativeInstanceAnalysisParameters"
+  },
+  "bQInitiativeInstanceRecord" : {
+    "segmentInitiativeType" : "segmentInitiativeType",
+    "segmentInitiativeDescription" : "segmentInitiativeDescription",
+    "segmentInitiativeSchedule" : "segmentInitiativeSchedule",
+    "segmentInitiativeBusinessUnitReference" : "758557",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "correspondenceInstanceReference" : "753774",
+    "segmentInitiativeResult" : "segmentInitiativeResult",
+    "segmentInitiativeWorkProducts" : "segmentInitiativeWorkProducts",
+    "documentDirectoryEntryInstanceReference" : "757194"
+  },
+  "initiativeInstanceReport" : {
+    "initiativeInstanceReportParameters" : "initiativeInstanceReportParameters",
+    "initiativeInstanceReportType" : "initiativeInstanceReportType",
+    "initiativeInstanceReport" : {},
+    "initiativeInstanceReportRecord" : {}
+  },
+  "initiativeRetrieveActionTaskRecord" : {},
+  "initiativeRetrieveActionResponse" : "initiativeRetrieveActionResponse"
+}

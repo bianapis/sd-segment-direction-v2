@@ -1,0 +1,19 @@
+{
+  "segmentStrategyInstanceRecord" : {
+    "segmentStrategySchedule" : "segmentStrategySchedule",
+    "segmentStrategyPoliciesAndGuidelines" : "segmentStrategyPoliciesAndGuidelines",
+    "segmentStrategyOrganization" : "segmentStrategyOrganization",
+    "segmentGoalRecord" : {
+      "segmentGoalDefinition" : "segmentGoalDefinition",
+      "segmentGoalResult" : "segmentGoalResult",
+      "segmentGoalOrganization" : "segmentGoalOrganization",
+      "segmentGoalType" : "segmentGoalType"
+    },
+    "segmentStrategyPeriod" : "segmentStrategyPeriod",
+    "segmentStrategyBudget" : "segmentStrategyBudget"
+  },
+  "requestRecordReference" : "RRR773067",
+  "segmentStrategyRequestActionTaskRecord" : {},
+  "segmentStrategyRequestActionTaskReference" : "SSRATR738681",
+  "requestResponseRecord" : {}
+}

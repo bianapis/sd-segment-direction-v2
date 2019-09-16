@@ -1,0 +1,28 @@
+{
+  "segmentStrategyInstanceRecord" : {
+    "segmentStrategySchedule" : "segmentStrategySchedule",
+    "segmentStrategyPoliciesAndGuidelines" : "segmentStrategyPoliciesAndGuidelines",
+    "segmentStrategyOrganization" : "segmentStrategyOrganization",
+    "segmentGoalRecord" : {
+      "segmentGoalDefinition" : "segmentGoalDefinition",
+      "segmentGoalResult" : "segmentGoalResult",
+      "segmentGoalOrganization" : "segmentGoalOrganization",
+      "segmentGoalType" : "segmentGoalType"
+    },
+    "segmentStrategyPeriod" : "segmentStrategyPeriod",
+    "segmentStrategyBudget" : "segmentStrategyBudget"
+  },
+  "segmentStrategyRetrieveActionTaskReference" : "SSRATR740055",
+  "segmentStrategyInstanceReportRecord" : {
+    "segmentStrategyInstanceReportType" : "segmentStrategyInstanceReportType",
+    "segmentStrategyInstanceReport" : {},
+    "segmentStrategyInstanceReportData" : "segmentStrategyInstanceReportData"
+  },
+  "segmentStrategyInstanceAnalysis" : {
+    "segmentStrategyInstanceAnalysisReport" : {},
+    "segmentStrategyInstanceAnalysisReportType" : "segmentStrategyInstanceAnalysisReportType",
+    "segmentStrategyInstanceAnalysisData" : "segmentStrategyInstanceAnalysisData"
+  },
+  "segmentStrategyRetrieveActionTaskRecord" : {},
+  "segmentStrategyRetrieveActionResponse" : "segmentStrategyRetrieveActionResponse"
+}

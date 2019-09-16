@@ -1,0 +1,18 @@
+{
+  "bQInitiativeInstanceRecord" : {
+    "segmentInitiativeType" : "segmentInitiativeType",
+    "segmentInitiativeDescription" : "segmentInitiativeDescription",
+    "segmentInitiativeSchedule" : "segmentInitiativeSchedule",
+    "segmentInitiativeBusinessUnitReference" : "785325",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "correspondenceInstanceReference" : "759005",
+    "segmentInitiativeResult" : "segmentInitiativeResult",
+    "segmentInitiativeWorkProducts" : "segmentInitiativeWorkProducts",
+    "documentDirectoryEntryInstanceReference" : "771739"
+  },
+  "initiativeUpdateActionTaskReference" : "IUATR762872",
+  "initiativeUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}

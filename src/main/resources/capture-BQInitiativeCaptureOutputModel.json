@@ -1,0 +1,15 @@
+{
+  "initiativeCaptureRecordReference" : "ICRR733112",
+  "bQInitiativeInstanceRecord" : {
+    "segmentInitiativeSchedule" : "segmentInitiativeSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "correspondenceInstanceReference" : "767512",
+    "segmentInitiativeWorkProducts" : "segmentInitiativeWorkProducts",
+    "documentDirectoryEntryInstanceReference" : "777707"
+  },
+  "initiativeCaptureActionTaskReference" : "ICATR708113",
+  "captureResponseRecord" : {},
+  "initiativeCaptureActionTaskRecord" : {}
+}

@@ -1,0 +1,17 @@
+{
+  "segmentStrategyInstanceRecord" : {
+    "segmentStrategySchedule" : "segmentStrategySchedule",
+    "segmentStrategyOrganization" : "segmentStrategyOrganization",
+    "segmentGoalRecord" : {
+      "segmentGoalDefinition" : "segmentGoalDefinition",
+      "segmentGoalResult" : "segmentGoalResult",
+      "segmentGoalOrganization" : "segmentGoalOrganization",
+      "segmentGoalType" : "segmentGoalType"
+    },
+    "segmentStrategyBudget" : "segmentStrategyBudget"
+  },
+  "segmentStrategyCaptureActionTaskReference" : "SSCATR767802",
+  "segmentStrategyCaptureActionTaskRecord" : {},
+  "captureResponseRecord" : {},
+  "captureRecordReference" : "CRR740936"
+}
